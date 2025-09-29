@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->markdown
+-->
 <h1 align="center">Привет, меня зовут Никита! 👋</h1>
 <h3 align="center">Начинающий Python-разработчик, увлеченный созданием чистого и эффективного кода.</h3>
-markdown
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Python+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
 </p><img width="682" height="908" alt="Снимок экрана 2025-09-29 123701" src="https://github.com/user-attachments/assets/fcf27961-27f1-4a64-8cb7-cefb60120b6f" 
