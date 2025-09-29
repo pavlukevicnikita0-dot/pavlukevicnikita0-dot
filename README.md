@@ -1,4 +1,4 @@
-<img width="682" height="908" alt="Снимок экрана 2025-09-29 123701" src="https://github.com/user-attachments/assets/39f83b25-7864-413b-8881-2e8e670e04b9" />## Hi there 👋
+<img width="682" height="908" alt="Снимок экрана 2025-09-29 123701" src="https://github.com/user-attachments/assets/39f83b25-7864-413b-8881-2e8e670e04b9" />##
 
 <!--
 **pavlukevicnikita0-dot/pavlukevicnikita0-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
