@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="682" height="908" alt="Снимок экрана 2025-09-29 123701" src="https://github.com/user-attachments/assets/39f83b25-7864-413b-8881-2e8e670e04b9" />## Hi there 👋
 
 <!--
 **pavlukevicnikita0-dot/pavlukevicnikita0-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Python+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
+<img width="682" height="908" alt="Снимок экрана 2025-09-29 123701" src="https://github.com/user-attachments/assets/5c01d130-d8c5-4d99-9efa-8d9931cfc3ae" />
 <h1 align="center">Работа то меня устраивает</h1>
 <h3 align="center"><b>А н о ю я для души</b></h3>
 
