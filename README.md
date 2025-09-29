@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Python+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
+![Мое настроение](Снимок%20экрана%202025-09-29%20123701.png)
